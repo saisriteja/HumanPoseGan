@@ -1,0 +1,15 @@
+pip install pose-format
+pip install opencv-python
+
+# Install the transcription packages
+git clone https://github.com/sign-language-processing/transcription.git
+cd transcription
+git checkout 9fd4fa430a2f882fef538639f8e9d5039112f3bb
+pip install .
+
+# Install mediapipe
+pip install mediapipe
+pip install vidgear
+pip install split-folders
+pip install logzero
+pip install toml

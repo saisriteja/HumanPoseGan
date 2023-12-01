@@ -1,0 +1,6 @@
+vidpath = '/home/cilab/teja/sign_langauge_dataset/effective_speaking'
+name = 'julia'                                                            #-> unq name of the person
+xmin = 0                                                                  #-> x left top
+ymin = 0                                                                  #-> y left top
+extension = 0                                                             #-> extension of the box( x_min, y_min, x_min+extension, y_min+extension)
+ratio = [0.5, 0.3, 0.2]                                                   #-> ratio of train, val and test

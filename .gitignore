@@ -1,0 +1,13 @@
+julia_dataset
+env
+src
+model_training
+person_dataset
+person_dataset_split
+wandb
+imp_data
+videos
+venv
+gan_training_dataset
+transcription
+*.pt
